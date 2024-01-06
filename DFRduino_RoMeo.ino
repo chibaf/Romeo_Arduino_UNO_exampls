@@ -1,3 +1,5 @@
+// DFRduino RoMeo
+// Example use of Button 1-5
 char msgs[5][15] = {
   "Right Key OK ",
   "Up Key OK    ",
